@@ -7,7 +7,7 @@ IJ.Start.Canon - Setup Your Canon Printers Step-By-Step
     :width: 300px
     :align: center
     :height: 90px
-    :alt: Amazon.com/mytv
+    :alt: ij start canon setup 
     :target: /
 |
 
