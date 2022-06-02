@@ -33,13 +33,21 @@ intro:
 24.After connection, click on the Next option.
 25.After connection, the installation of other applications or software will begin.
 26.That's it, the Pixma canon printer wirelessly connected with windows devices using the driver is successful."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+intro:
+    heading: "Ij.start.canon printer connection with windows device Manually"
+    text:"If you want to connect the canon printer manually with the windows device, then follow the process below;
+1.For the manual connection of a printer and another device, then you will need a USB cable.
+2.Take the USB cable and connect the one end to the printer.
+3.And connect the other end to the device that is Pc or laptop.
+4.Then turn on both the devices, that is, the printer and another device.
+5.Then go to the Pc or laptop.
+6.Go to the settings of the device.
+7.In the settings, go into the printer and device option.
+8.In printer and device, you will see the devices that are connected.
+9.There find your printer name.
+10.If you find the device, click on the Add device option.
+11.And if you don't see your device, connect the printer and device again using a USB cable.
+12.Or manually add the name of your device.
+#13.Then adding the device will begin.
+#14.That's it; the Canon printer is connected manually to the windows device."
 
