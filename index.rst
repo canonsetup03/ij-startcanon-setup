@@ -1,13 +1,26 @@
----
-title: "IJ.Start.Canon - Setup Your Canon Printers Step-By-Step"
-subtitle: Connect Your Ij Start Canon Printer Easily with The help this easy guide.
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: About Ij.Start.Canon
-    text: "Ij.start. Canon is a Japanese multinational company established in 1937, and since then, it has made a progressive development in the field of electronics. A printer is also one of these electronic gadgets. Printers work enormously to convert soft copies into hard by printing on paper using ink. There are two types of printers, i.e., laserjet and inkjet. Inkjet is the printer that works on liquid ink. So they are delicate and are designed for more significant and soft work, which means that they are not designed for heavy work."
-intro:
-    heading: "Ij.start.canon Pixma printer connection with Windows devices wirelessly"
-    text: "If you want to know about the connection of the ij Pixma printer to the windows devices wirelessly, then follow the process below;
+##################
+IJ.Start.Canon - Setup Your Canon Printers Step-By-Step
+##################
+
+|
+.. image:: get.png
+    :width: 300px
+    :align: center
+    :height: 90px
+    :alt: Amazon.com/mytv
+    :target: /
+|
+
+
+**********
+About Ij.Start.Canon
+**********
+**Ij.start. Canon** is a Japanese multinational company established in 1937, and since then, it has made a progressive development in the field of electronics. A printer is also one of these electronic gadgets. Printers work enormously to convert soft copies into hard by printing on paper using ink. There are two types of printers, i.e., laserjet and inkjet. Inkjet is the printer that works on liquid ink. So they are delicate and are designed for more significant and soft work, which means that they are not designed for heavy work.
+
+**********
+Ij.start.canon Pixma printer connection with Windows devices wirelessly
+**********
+If you want to know about the connection of the ij Pixma printer to the windows devices wirelessly, then follow the process below;
 1.Firstly you need to download and install the driver or the software for your windows device.
 2.Then go to the Pixma printer.
 3.Press the power button of the printer till the green light blinks.
@@ -32,10 +45,12 @@ intro:
 23.Then enter the password of your router.
 24.After connection, click on the Next option.
 25.After connection, the installation of other applications or software will begin.
-26.That's it, the Pixma canon printer wirelessly connected with windows devices using the driver is successful."
-intro:
-    heading: "Ij.start.canon printer connection with windows device Manually"
-    text:"If you want to connect the canon printer manually with the windows device, then follow the process below;
+26.That's it, the Pixma canon printer wirelessly connected with windows devices using the driver is successful.
+
+**********
+Ij.start.canon printer connection with windows device Manually
+**********
+If you want to connect the canon printer manually with the windows device, then follow the process below;
 1.For the manual connection of a printer and another device, then you will need a USB cable.
 2.Take the USB cable and connect the one end to the printer.
 3.And connect the other end to the device that is Pc or laptop.
