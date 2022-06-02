@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "IJ.Start.Canon - Setup Your Canon Printers Step-By-Step"
+subtitle: Connect Your Ij Start Canon Printer Easily with The help this easy guide.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
