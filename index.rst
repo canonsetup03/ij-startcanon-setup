@@ -22,8 +22,11 @@ Ij.start.canon Pixma printer connection with Windows devices wirelessly
 **********
 If you want to know about the connection of the ij Pixma printer to the windows devices wirelessly, then follow the process below;
 1.Firstly you need to download and install the driver or the software for your windows device.
+
 2.Then go to the Pixma printer.
+
 3.Press the power button of the printer till the green light blinks.
+
 4.Then press and hold the Direct button on the printer.
 5.Then the WiFi icon on the printer's LCD screen will blink.
 6.After that, go to the driver that you have downloaded.
