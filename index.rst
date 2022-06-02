@@ -30,9 +30,9 @@ If you want to know about the connection of the ij Pixma printer to the windows 
 
 #. 4. Then press and hold the Direct button on the printer.
 
-*5. Then the WiFi icon on the printer's LCD screen will blink.
+* 5. Then the WiFi icon on the printer's LCD screen will blink.
 
-6. After that, go to the driver that you have downloaded.
+* 6. After that, go to the driver that you have downloaded.
 
 7. Double click on the driver and open it.
 
